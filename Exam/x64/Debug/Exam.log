@@ -1,0 +1,13 @@
+﻿  Account.cpp
+  Application.cpp
+  Door.cpp
+  FileHelper.cpp
+  Question.cpp
+f:\с++\экзамен\exam\question.cpp(77): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Source.cpp
+  Test.cpp
+f:\с++\экзамен\exam\test.cpp(59): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  User.cpp
+  Создание кода...
+f:\с++\экзамен\exam\door.cpp(40): warning C4715: Door::EntryMenu: значение возвращается не при всех путях выполнения
+  Exam.vcxproj -> F:\С++\Экзамен\x64\Debug\Exam.exe

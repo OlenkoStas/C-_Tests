@@ -1,0 +1,6 @@
+﻿  Application.cpp
+d:\my projects\exam\exam\application.cpp(395): warning C4018: >: несоответствие типов со знаком и без знака
+  FileHelper.cpp
+  Question.cpp
+  Создание кода...
+  Exam.vcxproj -> D:\My Projects\Exam\Debug\Exam.exe

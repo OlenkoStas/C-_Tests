@@ -1,0 +1,15 @@
+﻿  Account.cpp
+  Application.cpp
+  Door.cpp
+  FileHelper.cpp
+  Question.cpp
+f:\с++\экзамен\новая папка\exam\question.cpp(77): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  Source.cpp
+  Test.cpp
+f:\с++\экзамен\новая папка\exam\test.cpp(59): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  User.cpp
+  Создание кода
+f:\с++\экзамен\новая папка\exam\door.cpp(40): warning C4715: Door::EntryMenu: значение возвращается не при всех путях выполнения
+  All 811 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Exam.vcxproj -> F:\С++\Экзамен\Новая папка\x64\Release\Exam.exe
